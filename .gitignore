@@ -150,5 +150,5 @@ ipython_config.py
 !.vscode/extensions.json
 
 # data
-.csv
-.json
+*.csv
+*.json
